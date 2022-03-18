@@ -2,8 +2,6 @@
 
 PyTorch implementation of "Learning from Students: Online Contrastive Distillation Network for General Continual Learning"
 
-Our codes will be released if this paper is accepted.
-
 If you have any questions on this paper, feel free to create an issue.
 
 ## Acknowledgements
