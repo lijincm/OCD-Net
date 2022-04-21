@@ -14,7 +14,7 @@ author = {Li, Jin and Ji, Zhong and Wang, Gang and Wang, Qiang and Gao, Feng},
 title = {Learning from Students: Online Contrastive Distillation Network for General Continual Learning},
 booktitle = {Proceedings of the International Joint Conference on Artificial Intelligence},
 pages = {},
-year = {2019}
+year = {2022}
 }
 ```
 
