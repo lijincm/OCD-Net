@@ -1,4 +1,4 @@
-#Learning from Students: Online Contrastive Distillation Network for General Continual Learning
+# Learning from Students: Online Contrastive Distillation Network for General Continual Learning
 
 This repository contains the PyTorch implementation for the IJCAI 2022 Paper "Learning from Students: Online Contrastive Distillation Network for General Continual Learning" 
 
