@@ -30,3 +30,5 @@ Our implementations use the source code from the following repositories and user
 * [Dark Experience for General Continual Learning](https://github.com/aimagelab/mammoth)
 
 * [Supervised Contrastive Learning](https://github.com/HobbitLong/SupContrast)
+
+* [Complementary Calibration](https://github.com/lijincm/CoCa)
