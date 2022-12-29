@@ -2,7 +2,7 @@
 
 This repository contains the PyTorch implementation for the IJCAI 2022 Paper "Learning from Students: Online Contrastive Distillation Network for General Continual Learning" (Corresponding author: Prof. Zhong Ji)
 
-Our paper is available at [Online](https://github.com/lijincm/OCD-Net)
+Our paper is available at [Online](https://www.ijcai.org/proceedings/2022/446)
 
 If you have any questions on this paper, feel free to create an issue.
 
